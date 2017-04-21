@@ -23,7 +23,7 @@ for ((i=0;i<n-1;i++))
 	do
 		for((j=$i;j<$n;j++))
 		do
-			if[[$arr[$i] -gt ${arr[$j]}]]
+			if [[${arr[$i]} -gt ${arr[$j]}]]
 			then
 			
 			t=${arr[$i]}
