@@ -42,8 +42,8 @@ echo
 git commit -m "$commit"
 git remote remove origin
 git remote add origin "$path"
-git pull origin master
-#git push -f origin master
+#git pull origin master
+git push -f origin master
 
 echo
 echo "DONE!!!"	
