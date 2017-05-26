@@ -1,7 +1,7 @@
 #ssh-keygen -t rsa -b 4096 -C "binhboibac.dhttll@gmail.com"
 #/home/kids/.ssh/id_rsa
 
-path="https://github.com/TrinhVanBinhtcu/DHCN1A-4305"
+path="https://github.com/TrinhVanBinhtcu/DHCN1A-4305.git"
 username="TrinhVanBinhtcu"
 email="binhboibac.dhttll@gmail.com"
 
